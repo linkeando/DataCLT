@@ -1,0 +1,46 @@
+{
+    "productos": [
+      {
+        "id": 1,
+        "nombre": "Producto A",
+        "precio": 19.99,
+        "descripcion": "Una breve descripción del Producto A",
+        "categoria": "Electrónica"
+      },
+      {
+        "id": 2,
+        "nombre": "Producto B",
+        "precio": 29.99,
+        "descripcion": "Una breve descripción del Producto B",
+        "categoria": "Ropa"
+      },
+      {
+        "id": 3,
+        "nombre": "Producto C",
+        "precio": 14.99,
+        "descripcion": "Una breve descripción del Producto C",
+        "categoria": "Hogar"
+      }
+    ],
+    "servicios": [
+      {
+        "id": 101,
+        "nombre": "Servicio de Consultoría",
+        "tarifa_hora": 50.0,
+        "descripcion": "Consultoría experta en diversas áreas"
+      },
+      {
+        "id": 102,
+        "nombre": "Servicio de Diseño Gráfico",
+        "tarifa_hora": 40.0,
+        "descripcion": "Diseño creativo para tus necesidades visuales"
+      },
+      {
+        "id": 103,
+        "nombre": "Servicio de Limpieza",
+        "tarifa_hora": 25.0,
+        "descripcion": "Limpieza profesional para hogares y oficinas"
+      }
+    ]
+  }
+  
