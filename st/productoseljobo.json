@@ -25,7 +25,7 @@
     "servicios": [
       {
         "id": 101,
-        "nombre": "Servicio de Consultoría",
+        "nombre": "Servicio de Consultoría CAMBIO",
         "tarifa_hora": 50.0,
         "descripcion": "Consultoría experta en diversas áreas"
       },
