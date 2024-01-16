@@ -1,1 +1,45 @@
-
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Producto A",
+      "precio": 19.99,
+      "descripcion": "Una breve descripci\u00f3n del Producto A",
+      "categoria": "Electr\u00f3nica"
+    },
+    {
+      "id": 2,
+      "nombre": "Producto B",
+      "precio": 29.99,
+      "descripcion": "Una breve descripci\u00f3n del Producto B",
+      "categoria": "Ropa"
+    },
+    {
+      "id": 3,
+      "nombre": "Producto C",
+      "precio": 14.99,
+      "descripcion": "Una breve descripci\u00f3n del Producto C",
+      "categoria": "Hogar"
+    }
+  ],
+  "servicios": [
+    {
+      "id": 101,
+      "nombre": "Servicio de Consultor\u00eda CAMBIO DESDE PYTHON",
+      "tarifa_hora": 50.0,
+      "descripcion": "Consultor\u00eda experta en diversas \u00e1reas"
+    },
+    {
+      "id": 102,
+      "nombre": "Servicio de Dise\u00f1o Gr\u00e1fico",
+      "tarifa_hora": 40.0,
+      "descripcion": "Dise\u00f1o creativo para tus necesidades visuales"
+    },
+    {
+      "id": 103,
+      "nombre": "Servicio de Limpieza",
+      "tarifa_hora": 25.0,
+      "descripcion": "Limpieza profesional para hogares y oficinas"
+    }
+  ]
+}
