@@ -3,6 +3,17 @@
     "title": "Mi Página Web",
     "description": "Explora lo mejor que tenemos para ofrecer",
     "author": "Tu Nombre",
+    "navbar": {
+      "logo": "path/to/logo.jpg",
+      "menu": [
+        {"label": "Inicio", "link": "#hero"},
+        {"label": "Productos", "link": "#products"},
+        {"label": "Servicios", "link": "#services"},
+        {"label": "Testimonios", "link": "#testimonials"},
+        {"label": "Equipo", "link": "#team"},
+        {"label": "Contacto", "link": "#contact"}
+      ]
+    },
     "sections": [
       {
         "type": "hero",
