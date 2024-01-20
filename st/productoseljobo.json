@@ -101,7 +101,7 @@
       {
         "type": "team",
         "title": "Nuestro Equipo",
-        "members": [
+        "items": [
           {
             "id": 1,
             "name": "Miembro del Equipo 1",
@@ -140,7 +140,7 @@
         "address": "Dirección de la empresa",
         "email": "info@miempresa.com",
         "phone": "+123456789",
-        "social_media": [
+        "items": [
           {
             "platform": "Facebook",
             "link": "https://www.facebook.com/miempresa"
